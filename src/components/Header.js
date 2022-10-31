@@ -8,7 +8,7 @@ import {
   flexBetweenCenter,
   dFlex,
   displayOnDesktop,
-} from 'themes/commonStyles';
+} from '../themes/CommonStyles';
 import ProfileSettings from './ProfileSettings';
 import MobileSearch from './MobileSearch';
 
